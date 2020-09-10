@@ -1,0 +1,63 @@
+{
+  "tables": {
+    "sys_script_client": {
+      "records": {
+        "Wish Item Set Requester": {
+          "files": [
+            {
+              "name": "script",
+              "type": "js"
+            }
+          ],
+          "name": "Wish Item Set Requester",
+          "sys_id": "1eb10dcadb831010b61b7b6039961979"
+        }
+      }
+    },
+    "sys_script_include": {
+      "records": {
+        "SincroniaTestOne": {
+          "files": [
+            {
+              "name": "script",
+              "type": "js"
+            }
+          ],
+          "name": "SincroniaTestOne",
+          "sys_id": "3787d51adb035010b61b7b60399619ac"
+        },
+        "SincroniaTestTwo": {
+          "files": [
+            {
+              "name": "script",
+              "type": "js"
+            }
+          ],
+          "name": "SincroniaTestTwo",
+          "sys_id": "72e7d5d6db8f1010b61b7b6039961970"
+        },
+        "SincroniaTestThree": {
+          "files": [
+            {
+              "name": "script",
+              "type": "js"
+            }
+          ],
+          "name": "SincroniaTestThree",
+          "sys_id": "945d515edb035010b61b7b60399619f3"
+        },
+        "SincroniaTestFour": {
+          "files": [
+            {
+              "name": "script",
+              "type": "js"
+            }
+          ],
+          "name": "SincroniaTestFour",
+          "sys_id": "c307ccebdbcb5010b61b7b60399619c2"
+        }
+      }
+    }
+  },
+  "scope": "x_287489_wish_list"
+}
